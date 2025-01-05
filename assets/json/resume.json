@@ -10,8 +10,8 @@
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
+      "city": "Cartagena",
+      "countryCode": "CO",
       "region": "California"
     },
     "profiles": [
@@ -47,12 +47,12 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Pontificia Universidad Javeriana, Cololombia",
+      "location": "Bogotá, Colombia",
+      "url": "https://www.javeriana.edu.co/",
+      "area": "Artificial Intelligence",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
+      "startDate": "2018-07-15",
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
