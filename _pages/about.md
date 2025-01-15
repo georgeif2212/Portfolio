@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.utb.edu.co/profesores/edwin-puertas-del-castillo-2/)'>Universidad Tecnologica de Bolivar</a>.Parque Industrial y Tecnológico Carlos Vélez Pombo.
+subtitle: <a href='[Universidad Tecnologica de Bolivar](https://www.utb.edu.co/profesores/edwin-puertas-del-castillo-2/)'></a>.Parque Industrial y Tecnológico Carlos Vélez Pombo.
 
 profile:
   align: right
