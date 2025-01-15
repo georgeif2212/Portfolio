@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:<a href='[Universidad Tecnologica de Bolivar](https://www.utb.edu.co/profesores/edwin-puertas-del-castillo-2/)'>Universidad Tecnologica de Bolivar</a>
+subtitle:<a href='[#]'>Universidad Tecnologica de Bolivar</a>
 
 profile:
   align: right
