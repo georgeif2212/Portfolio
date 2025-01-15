@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:<a href='[#]'>Universidad Tecnologica de Bolivar</a>
+subtitle: Universidad Tecnologica de Bolivar
 
 profile:
   align: right
