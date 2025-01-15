@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='[#](https://www.utb.edu.co/profesores/edwin-puertas-del-castillo-2/)'>Universidad Tecnologica de Bolivar</a>.Parque Industrial y Tecnológico Carlos Vélez Pombo.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>234 Edif. Alcatraz</p>
+    <p>Parque Industrial y Tecnológico Carlos Vélez Pombo</p>
+    <p>Cartagena, Colombia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
