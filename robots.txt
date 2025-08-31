@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jinfante.github.io/sitemap.xml
+Sitemap: https://georgeif2212.github.io/sitemap.xml
